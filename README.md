@@ -98,10 +98,4 @@ Module chargé de détecter la présence, éclairer automatiquement l’entrée,
 * Ouverture intelligente du garage
 * Orientation d’un panneau solaire
 
----
 
-
-```markdown
-![Arduino](https://img.shields.io/badge/Arduino-Project-blue)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-```
