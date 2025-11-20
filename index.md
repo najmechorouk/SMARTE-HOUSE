@@ -22,14 +22,14 @@ Le but est d’illustrer une intégration complète de capteurs et actionneurs p
 
 ### Images
 
-![Interior](https://github.com/najmechorouk/SMARTE-HOUSE/interior.jpg)
+![Interior](interior.jpg)
 
 ### Description
 
 Le module intérieur surveille température, humidité, pluie, flamme, fumée et bruits.
 Il déclenche automatiquement les alertes et contrôle un servomoteur pour protéger le linge.
 
-➡️ [Voir le code complet](https://github.com/najmechorouk/SMARTE-HOUSE/Interior_SMART_HOUSE.ino)
+➡️ [Voir le code complet](Interior_SMART_HOUSE.ino)
 
 ---
 
@@ -37,13 +37,13 @@ Il déclenche automatiquement les alertes et contrôle un servomoteur pour prot�
 
 ### Images
 
-**[https://github.com/najmechorouk/SMARTE-HOUSE/house.jpg](https://github.com/najmechorouk/SMARTE-HOUSE/house.jpg)**
+![house](house.jpg)
 
 ### Description
 
 Le module extérieur gère la détection de passage, l’éclairage automatique, la porte de garage et le tracking solaire.
 
-➡️ [Voir le code complet](https://github.com/najmechorouk/SMARTE-HOUSE/Exterieur_SMART_HOUSE.ino)
+➡️ [Voir le code complet](Exterieur_SMART_HOUSE.ino)
 
 ---
 
