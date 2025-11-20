@@ -42,7 +42,8 @@ Objet détecté devant le garage (<10 cm) :
 Ouverture automatique de la porte (servo à 90°), refermée après 3 secondes.
 Tracking solaire (LDR gauche/droite) :
 La différence de lumière ajuste le servomoteur pour suivre la lumière du soleil.
-En résumé, ce système de maison intelligente (smart home)
+# En résumé, 
+ce système de maison intelligente (smart home)
 permet :
 De protéger le linge en cas de pluie.
 De détecter et alerter en cas de feu ou fumée.
